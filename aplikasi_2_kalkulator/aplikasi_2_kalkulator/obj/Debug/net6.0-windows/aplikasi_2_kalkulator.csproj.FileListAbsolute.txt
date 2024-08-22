@@ -1,0 +1,48 @@
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.exe
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.deps.json
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.runtimeconfig.json
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.Form1.resources
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.GenerateResource.cache
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfoInputs.cache
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfo.cs
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.CoreCompileInputs.cache
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\refint\aplikasi_2_kalkulator.dll
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.genruntimeconfig.cache
+D:\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\ref\aplikasi_2_kalkulator.dll
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.exe
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.deps.json
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.runtimeconfig.json
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.Form1.resources
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.GenerateResource.cache
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfoInputs.cache
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfo.cs
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.CoreCompileInputs.cache
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\refint\aplikasi_2_kalkulator.dll
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.genruntimeconfig.cache
+F:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\ref\aplikasi_2_kalkulator.dll
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.exe
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.deps.json
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.runtimeconfig.json
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\bin\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.Form1.resources
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.GenerateResource.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfoInputs.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.AssemblyInfo.cs
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.csproj.CoreCompileInputs.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.dll
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\refint\aplikasi_2_kalkulator.dll
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.pdb
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\aplikasi_2_kalkulator.genruntimeconfig.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\aplikasi_2_kalkulator\aplikasi_2_kalkulator\obj\Debug\net6.0-windows\ref\aplikasi_2_kalkulator.dll
